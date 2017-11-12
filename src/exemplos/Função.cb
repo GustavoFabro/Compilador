@@ -1,0 +1,19 @@
+>> Exemplo do uso de funções em C Basic 
+
+inicio_programa { 
+          
+          int §somaNumeros (int §numA, int §numB) {
+	declaravariaveis int §resultado;
+		
+	inicio_corpo
+		§resultado := §numA + §numB
+	fim_corpo
+	
+	return §resultado;
+          };
+
+          inicio_corpo 
+            chamafuncao §somaNumeros (§numA, §numB);
+	escreve(\Olá mundo!\)
+          fim_corpo 
+}

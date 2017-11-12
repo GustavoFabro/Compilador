@@ -1,0 +1,7 @@
+>> Hello World em C Basic 
+
+inicio_programa { 
+          inicio_corpo 
+	escreve(\Olá mundo!\)
+          fim_corpo 
+}
