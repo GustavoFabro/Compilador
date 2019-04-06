@@ -12,3 +12,7 @@ Ações semânticas:
 4 - Chamar variáveis que não foram declaradas
 5 - Chamar constantes que não foram declaradas
 6 – Informar número errado de parâmetros na chamada de função
+
+<p align="center">
+  <img src="https://i.ibb.co/pPzX3Yg/comp3.png"> 
+</p>
